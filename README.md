@@ -1,5 +1,5 @@
 # Project-Razz
 
-My first reposiroty!
+My first repository!
 
 This is just a test.
